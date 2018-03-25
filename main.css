@@ -1,0 +1,36 @@
+.mar{
+  margin-left:150px;
+}
+.lob{
+  font-family:Cagliostro, Lobster,monospace;
+  color:cyan;
+}
+.hal{
+  font-family:Jacques Francois Shadow;
+  color:LightGreen;
+}
+.colber{
+  font-family:Cagliostro, Lobster, monospace;
+  color:wheat;
+}
+.center{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  
+}
+body{
+margin-top:56px;  
+ background-image:url("images/stars%20giphy.gif");
+  background-size:80%;
+  }
+.alg{
+  color:#33ff6e;
+}
+.fen{
+  font-family:Incosolata;
+    color:rgb(250,230,168);
+}
+.gln{
+  color:#33f9ff;
+}
