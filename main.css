@@ -22,7 +22,7 @@
 body{
 margin-top:56px;  
  background-image:url("images/stars%20giphy.gif");
-  background-size:80%;
+  background-size:cover;
   }
 .alg{
   color:#33ff6e;
