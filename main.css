@@ -1,6 +1,11 @@
 .mar{
   margin-left:150px;
 }
+.mer{
+  text-align-last:inherit;
+  column-count:1;
+  column-width:auto;
+}
 .lob{
   font-family:Cagliostro, Lobster,monospace;
   color:cyan;
